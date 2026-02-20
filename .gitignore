@@ -1,6 +1,6 @@
-./ai.js
+ai.js
+config.js
 node_modules/
 dist/
 build/
 .env
-./config.js
